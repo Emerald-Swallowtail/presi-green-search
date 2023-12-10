@@ -13,15 +13,15 @@ temperatur, sowohl in der Höhe des Temperaturunterschieds, als auch
 in der Geschwindigkeit der Erhöhung. Dass der Treibhauseffekt durch 
 von Menschen ausgestoßene Treibhausgase verstärkt wird, nehme ich zu 
 diesem Zeitpunkt als Allgemeinwissen an.
+Die zweite Grafik ist eine Übersicht darüber wie wir unseren Strom 
+erzeugen.
 Stromerzeugung macht einen beachtlichen Teil des globalen CO2 Ausstoßes
-aus (Grafik 2). Der CO2 Ausstoß ist in unserem Fall wichtiger als andere 
+aus (Grafik 3). Der CO2 Ausstoß ist in unserem Fall wichtiger als andere 
 Treibhausgase wie Methan, weil unser Source Code auf Elektronik läuft,
 nicht auf Kühen.
-In der dritten Grafik sehen wir die Entwicklung des Stromverbrauchs der 
+In der vierten Grafik sehen wir die Entwicklung des Stromverbrauchs der 
 DATEV Rechenzentren- Tendenz steigend, da wir die Strategie haben "in die 
 Cloud" zu gehen.
-Zuletzt eine kurze Übersicht darüber wie wir in der Vergangenheit unseren
-Strom erzuegt haben.
 Die Devise ist "Mehr grünen Strom erzeugen und weniger davon
 verbrauchen". Beim "Weniger davon verbrauchen" Teil können wir Software-
 entwickler ins Spiel kommen.
